@@ -471,9 +471,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -1990.9154161945658,
-			"y": 270.75389410370286,
-			"z": 1.185921,
+			"x": -1971.104934750665,
+			"y": 297.09306149874874,
+			"z": 1.0430643185334794,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -637,6 +637,126 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2168.5999466494814,
+			"y": 15.447588399377707,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:T24EJNbIDUtFrLB2WjPJu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 360.859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "s3 - for song media files"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "api gateway"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "lambda functions"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "iam - for ci/cd"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ajj21PgV",
+			"typeName": "shape"
+		},
+		{
 			"x": 30,
 			"y": 74,
 			"rotation": 0,
@@ -755,12 +875,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:qgCPEz99fnRdnrghEzIR7",
+			"editingShapeId": "shape:T24EJNbIDUtFrLB2WjPJu",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:qgCPEz99fnRdnrghEzIR7"
+				"shape:T24EJNbIDUtFrLB2WjPJu"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:T24EJNbIDUtFrLB2WjPJu",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -1178,6 +1298,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2164.7650920495043,
+			"y": -26.735812200369423,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:t47_49Nyp5y4a3O6TRSRy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 315.484375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "aws services can be used"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ai0OD83V",
+			"typeName": "shape"
+		},
+		{
 			"x": 58,
 			"y": 162,
 			"rotation": 0,
@@ -1502,9 +1664,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rhombus"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -1518,7 +1678,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1872,
+				"w": 1572,
 				"h": 934
 			},
 			"insets": [
