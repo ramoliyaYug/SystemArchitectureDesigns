@@ -14,7 +14,7 @@
 			"com.tldraw.pointer": 1,
 			"com.tldraw.shape": 4,
 			"com.tldraw.asset.bookmark": 2,
-			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.image": 6,
 			"com.tldraw.asset.video": 5,
 			"com.tldraw.shape.group": 0,
 			"com.tldraw.shape.text": 4,
@@ -471,9 +471,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -1971.104934750665,
-			"y": 297.09306149874874,
-			"z": 1.0430643185334794,
+			"x": -54.733886087392975,
+			"y": 551.5401613569483,
+			"z": 0.5766079501763071,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -742,6 +742,26 @@
 												{
 													"type": "text",
 													"text": "iam - for ci/cd"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "dynamoDB"
 												}
 											]
 										}
@@ -1678,7 +1698,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1572,
+				"w": 1668,
 				"h": 934
 			},
 			"insets": [
